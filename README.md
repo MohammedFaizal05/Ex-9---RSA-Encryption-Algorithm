@@ -1,4 +1,4 @@
-# RSA-Encryption-Algorithmm
+# EX-9 RSA-Encryption-Algorithmm
 
 ## Aim:
  To Implement RSA Encryption Algorithm in C Program
